@@ -3,6 +3,4 @@ I'm razoshi, im fullstack developer, designer, and coder focused on web games ha
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,html,css,nodejs,webpack)](https://skillicons.dev)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=razoshi&label=Profile%20views&color=6A5ACD&style=flat-square" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=razoshi&label=Profile%20views&color=6A5ACD&style=flat-square" />
