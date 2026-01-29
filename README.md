@@ -3,4 +3,4 @@ I'm razoshi, im fullstack developer, designer, and coder focused on web games ha
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,html,css,nodejs,webpack)](https://skillicons.dev)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=razoshi&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=razoshi&theme=dark&hide_border=true)](https://git.io/streak-stats)
