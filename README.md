@@ -2,5 +2,3 @@
 I'm razoshi, im fullstack developer, designer, and coder focused on web games hacking. I work on random projects, join my discord server: [Discord](dsc.gg/softcld)
 
 [![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,html,css,nodejs,webpack)](https://skillicons.dev)
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=razoshi&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
